@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH1l6CG4d5UGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737463233130?e=1745452800&v=beta&t=nzRui7eZn17EUpEeGxwzvggMTL0_Z9eSb9gFuIazpKI)
 <h1 align="center">Hi 👋, I'm Fuad Beybutov</h1>
 
 # 💫 About Me:
