@@ -3,8 +3,8 @@
 # 💫 About Me:
  <h3>💡 Modern Front-End Developer | React.js, Next.js TypeScript & Tailwind Specialist.</h3>
  <h3>🎨 Crafting sleek, interactive, and high-performance web applications is my passion.</h3>
- <h3>🚀 I thrive on reshaping user experiences and delivering innovative solutions powered by technology.</h3>
- <h3>🔭 I’m currently working on Next.js.</h3>
+ <h3>🚀 I am a Front-End Developer who focuses on performance optimization, responsive design, CI/CD pipeline, and security.</h3>
+ <h3>🔭 I’m currently working on Next.js, Typescript, React.js Node.js, Tailwind.css, Shadcn-UI, .</h3>
  
 
 ## 🌐 Socials:
